@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aram Sulukdjian</h1>
+<h1 align="center">Hi 👋, I'm Aram,</h1>
 <h3 align="center">A junior fullstack developer from Paris, France</h3>
 
 - 🔭 I’m currently working on [Où Compost](https://github.com/floamahe/oucompost)
