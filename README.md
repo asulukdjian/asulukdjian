@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Middleman, Jekyll**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asulukdjian?tab=repositories](https://github.com/asulukdjian?tab=repositories)
+- 👨‍💻 All of my projects are available at [github repos](https://github.com/asulukdjian?tab=repositories)
 
 - 📝 I regularly write articles on [larevuetech.fr](larevuetech.fr)
 
