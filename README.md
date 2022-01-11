@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aram,</h1>
 <h3 align="center">A junior fullstack developer from Paris, France</h3>
 
-- 🔭 I’m currently working on [Où Compost](https://github.com/floamahe/oucompost)
+- 🔭 I’m currently working on [Le Koinpost](https://github.com/asulukdjian/lekoinpost)
 
 - 🌱 I’m currently learning **React, Middleman, Jekyll**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asulukdjian@pm.me**
 
-- ⚡ Fun fact **I'm also an IP/IT jurist**
+- ⚡ Day job **Project manager @Seraphin.legal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
