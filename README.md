@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asulukdjian@pm.me**
 
-- ⚡ Day job **Project manager @Seraphin.legal**
+- ⚡ Day job **Project manager @PIXID**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
